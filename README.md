@@ -12,6 +12,6 @@ Hello there!
 
 ## Program list
 
-* greeting.py
+* [greeting.py](https://github.com/baus5/small-programs/blob/main/greeting.py)
 * ...
 
